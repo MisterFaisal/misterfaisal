@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **New AI Models**
 
-- 👨‍💻 All of my projects are available at **[https://habibmezbafaisal.github.io/portfolio/](https://habibmezbafaisal.github.io/portfolio/)**
+- 👨‍💻 All of my projects are available at **[https://misterfaisal.github.io/portfolio/](https://misterfaisal.github.io/portfolio/)**
 
 - 💬 Ask me about **How Am I?**
 
