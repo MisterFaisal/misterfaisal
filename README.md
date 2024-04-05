@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **New AI Models**
 
-- 👨‍💻 All of my projects are available at [https://mezbafaisal.github.io/portfolio/](https://mezbafaisal.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at **[https://habibmezbafaisal.github.io/portfolio/](https://habibmezbafaisal.github.io/portfolio/)**
 
 - 💬 Ask me about **How Am I?**
 
-- 📫 How to reach me **mezbafaisal@gmail.com**
+- 📫 How to reach me **habibmezbafaisal@gmail.com**
 
 - ⚡ Fun fact **I think I am boring**
 
