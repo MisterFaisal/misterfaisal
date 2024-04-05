@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3 align="center"> A Software Engineer & A Machine Learning Engineer</h3>
 <h3 align="left">Connect me:</h3>
 <p align="left">
-<a href="https://fb.com/mezbafaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mezbafaisal" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misterfaisal" height="30" width="40" /></a>
 <a href="https://twitter.com/mezbafaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mezbafaisal" height="30" width="40" /></a>
 <a href="https://instagram.com/mezbafaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mezbafaisal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mezbafaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mezbafaisal" height="30" width="40" /></a>
