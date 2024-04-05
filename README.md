@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **How Am I?**
 
-- 📫 How to reach me **habibmezbafaisal@gmail.com**
+- 📫 How to reach me **Close your eyes and remember me**
 
 - ⚡ Fun fact **I think I am boring**
 
