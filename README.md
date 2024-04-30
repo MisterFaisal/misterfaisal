@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 <!--
-**mezbafaisal/mezbafaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**faisalryu/faisalryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey There👋, I'm Mr. Faisal</h1>
+<h1 align="center">Hey There👋, Faisal Ryū</h1>
 <h3 align="center"> A Software Engineer & A Machine Learning Engineer</h3>
 <h3 align="left">Connect me:</h3>
 <p align="left">
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **New AI Models**
 
-- 👨‍💻 All of my projects are available at **[https://misterfaisal.github.io/portfolio/](https://misterfaisal.github.io/portfolio/)**
+- 👨‍💻 All of my projects are available at **(https://faisalryu.github.io/portfolio/)**
 
 - 💬 Ask me about **How Am I?**
 
