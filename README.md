@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezbafaisal&" alt="mezbafaisal" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalyu&" alt="faisalryū" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mezbafaisal&show_icons=true&locale=en&layout=compact" alt="mezbafaisal" /></p>
 
 <img src="https://komarev.com/ghpvc/?username=mezbafaisal&label=Profile%20views&color=0e75b6&style=flat" alt="mezbafaisal" />
