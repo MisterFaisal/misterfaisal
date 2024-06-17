@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">myself Ryū</h1>
+<h1 align="center">myself Ryu</h1>
 <h3 align="center"> A Software Engineer & A Machine Learning Engineer</h3>
 <h3 align="left">Connect me:</h3>
 <p align="left">
